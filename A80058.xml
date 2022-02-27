@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A whip of small cords, to scourge Antichrist (sitting in the temple of God, and exalting himself above, and opposing himself against all that is called God) out of the temple of God; and clearing up the way for the receiving in of the Lord Jesus Christ in his glorious power in and over the church; now exercised in the working of miracles, gifts of healings, and other extraordinary gifts. With the knot at the end of the whip. Whereunto is added, the sheerer sheer'd, and casheer'd; the shaver shav'd, &amp; the grinder ground. By Matthew Coker, being apostolicus propheta, &amp; propheticus apostolus; ut baptista severus, Christi præcursor; baptismate spiritûs baptizatus; Antichristi &amp; antispiritûs antithetos oppositus; necnon angelus: non evanus, (qui vanus) sed evangelicus.</title>
+            <author>Coker, Matthew.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80058</idno>
+            <idno type="STC">Wing C4990</idno>
+            <idno type="STC">Thomason E745_5</idno>
+            <idno type="STC">ESTC R207060</idno>
+            <idno type="EEBO-CITATION">99866134</idno>
+            <idno type="PROQUEST">99866134</idno>
+            <idno type="VID">118398</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80058)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118398)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 114:E745[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A whip of small cords, to scourge Antichrist (sitting in the temple of God, and exalting himself above, and opposing himself against all that is called God) out of the temple of God; and clearing up the way for the receiving in of the Lord Jesus Christ in his glorious power in and over the church; now exercised in the working of miracles, gifts of healings, and other extraordinary gifts. With the knot at the end of the whip. Whereunto is added, the sheerer sheer'd, and casheer'd; the shaver shav'd, &amp; the grinder ground. By Matthew Coker, being apostolicus propheta, &amp; propheticus apostolus; ut baptista severus, Christi præcursor; baptismate spiritûs baptizatus; Antichristi &amp; antispiritûs antithetos oppositus; necnon angelus: non evanus, (qui vanus) sed evangelicus.</title>
+                  <author>Coker, Matthew.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Cottrel, on Addle-hill.,</publisher>
+                  <pubPlace>Lonndon, [sic] :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The working .. extraordinary Gifts." connected on title page by left curly bracket.</note>
+                  <note>Annotation on Thomason copy: "June ye 29th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Royal office --  Early works to 1800.</term>
+               <term>Antichrist --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118398:1" rendition="simple:additions"/>
+            <p>A Whip of ſmall cords, To ſcourge ANTICHRIST (Sitting in the Temple of God, and exalting himſelf above, and oppoſing himſelf againſt all that is called God) Out of the Temple of GOD; AND Clearing up the way for the receiving in of the Lord JESUS CHRIST in his glorious power in and over the Church; now exerciſed in The Working of Miracles, Gifts of Healings, and Other extraordinary Gifts.</p>
+            <p>WITH <hi>The Knot at the end of the Whip.</hi>
+            </p>
+            <p>Whereunto is added, The Sheerer ſheer'd, and caſheer'd; The Shaver ſhav'd, &amp; the Grinder ground.</p>
+            <p>By MATTHEW COKER, being <hi>Apoſtolicus Propheta, &amp; Propheticus Apoſtolus; ut Bapt ſta ſeverus, Chriſti praecurſor; Bapt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſmate Sp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tûs baptizatus; Antichriſti &amp; Antiſpiritûs: ant<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thetos oppoſitus; necnon Angelus: n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> Evanus, <hi>(qui vanus) ſed Evangel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cus.</hi>
+            </p>
+            <p>
+               <hi>Lonndon,</hi> Printed by <hi>James Cottrel,</hi> on Addle-hill. 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118398:2"/>
+            <pb n="1" facs="tcp:118398:2"/>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas ſome perſons (curiouſly wiſe) have taken upon themſelves to be the onely-beſt interpreters of thoſe moſt ſacred gifts of God's holy Spirit, which none can ſo well judge of, or under<g ref="char:EOLhyphen"/>ſtand, as he or they that have received a greater mea<g ref="char:EOLhyphen"/>ſure of that ſame Spirit, and been made thereby par<g ref="char:EOLhyphen"/>takers in ſome ſort of ſome Gifts, at leaſt, likewiſe:</p>
+            <p>I therefore, who (as the works beſt teſtifie of me) have received the power of working Miracles, and the gifts of Healings, have thought fit (hoping to be ſooneſt heard) to ſpeak both experimentally and knowingly: And my Method ſhall be, in reſolution of Queſtions in this Age propoſed, or that haply may be propoſed; and anſwering Objections which have been, or may be made unto or againſt the ſame.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>1</label> 
+               <hi>Whether the Gifts in the Apoſtles times be in our times.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> The Gifts in the Apoſtles times being the <hi>gifts of Gods Spirit,</hi> as recited in Chap. 12. of the firſt Epiſtle to the <hi>Corinthians,</hi> have extremely abated ſince the diviſion of us and <hi>Rome,</hi> that is, of us living in the Juriſdiction of the Church of <hi>England,</hi> and them under the Papal power uſurped over the Church of <hi>Rome;</hi> and ſo the ſpirit of Unity ha<g ref="char:EOLhyphen"/>ving much ceaſed in that reſpect between Churches
+<pb n="2" facs="tcp:118398:3"/>at home and abroad, and the ſpirit of Diviſion ha<g ref="char:EOLhyphen"/>ving advanced it ſelf, the faith of Chriſtians through want of true Charity hath been much weakned, to the great diſabling of them in the receiving of thoſe great Gifts, which the Apoſtles, inflamed in holy flames of Love and Zeal for the Truth, even unto the death, received in their time, and men neereſt ap<g ref="char:EOLhyphen"/>proaching unto them in ſeveral Ages ſince, have, ac<g ref="char:EOLhyphen"/>cording to the great meaſure of God's Spirit impar<g ref="char:EOLhyphen"/>ted to them, and their great care in not reſiſting the motions of that bleſſed Spirit, received gifts meaſu<g ref="char:EOLhyphen"/>rably anſwering to the Grace given and received.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>2</label> 
+               <hi>Then none can have thoſe gifts, but he or they that have ſuch grace given.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> None can: For it is not an injunction and command to men, to believe ſo far as to the obtain<g ref="char:EOLhyphen"/>ing of thoſe Gifts: it is enough to believe to ſalva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>3</label> 
+               <hi>How then is it that they can be received?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> As I ſaid, By grace given; that is, that God through his Son, Head of the Church, is pleaſed, by his Son, through the Spirit of him, to convey, when he pleaſeth, that faith in the ninth verſe of the former Chapter, which brings man within the capacity of receiving of thoſe gifts, and exerciſing the ſame, by vertue of our Saviours affirmation; (But obſerve, here is not his command:) <hi>If you beleive, the things that I do you ſhall do alſo, and greater things then theſe.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>4</label> 
+               <hi>Are not miracles ceaſed according to the opi<g ref="char:EOLhyphen"/>nion of the Church of</hi> England?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Yea, according to the opinion of many they have ceaſed, but according to the faith of the Church
+<pb n="3" facs="tcp:118398:3"/>it cannot be preſumed that any member will ſay, Thoſe gifts are ceaſed which are in Chriſt the head, from that time eſpecially that he aſcended into hea<g ref="char:EOLhyphen"/>ven, and ſo ever ſince. Ceaſed indeed, as to the great operation there was in the Apoſtles time, as yet they have; but ceaſed ſo, as never to be again exer<g ref="char:EOLhyphen"/>ciſed in the Church of God, will ſure be maintained by none, that believe, That that ſame Spirit ſhall be given more and more in the later days, till Time's laſt day; after which, in Eternity, we ſhall live in and by the full meaſure of that Spirit, for ever.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>5</label> 
+               <hi>What hath the common received opinion been, touching Miracles ceaſed?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> By wiſe men, in this ſenſe: As when night comes, we ſay day ceaſeth, till the Sun returns again to the Eaſt: ſo in the night of Ignorance, Schiſm, and Diviſion, times of Error and black Darkneſs in the Church, the Truth ceaſeth to ſhine in its pure luſtre, and the Spirit of God hath not its perfect vi<g ref="char:EOLhyphen"/>ſible operation in and over the face of the Church, till <hi>the Sun of righteouſneſs,</hi> which hath been long ſet in the firmament of the Church, (in reſpect of the great wane of light which the Apoſtles had) ſhall a<g ref="char:EOLhyphen"/>riſe oriently and purely, to the bringing in at laſt of the perfect day. But that being come, or neer his full approach to the high noon-tide of Goſpel-light; Ig<g ref="char:EOLhyphen"/>norance, Schiſm, <hi>&amp;c.</hi> are diſperſed, and vaniſh quite away into the bottomleſs pit, back into the ſmoke again from whence they aſcended up; and then thoſe gifts appear more and more, as faſt as the contrary flee away.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>6</label> 
+               <hi>Whether it hath been held, that gifts of Heal<g ref="char:EOLhyphen"/>ings in the Church have ceaſed?</hi>
+            </p>
+            <pb n="4" facs="tcp:118398:4"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> That was never held, but by thoſe curi<g ref="char:EOLhyphen"/>ouſly-wiſe perſons, who have by Sophiſms laboured to prove Miracles and Healings all one; which is as accurſed as the ſeparating of that which God hath conjoyned. And that Miracles (that is, as the text ſaith, working of Miracles) and Gifts of Healings are not all one, appears, firſt, by the wiſdom of God, whoſe Word puts them diſtinctly, which otherwiſe it would not it rather for the moſt part ſpeaking with the greateſt brevity, ſo far as may be, and yet avoid too great obſcurity. And here if Miracles and Healings be all one, then Miracles are Healings, and Healings Miracles. But that cannot be: for that act that makes the Lame to go immediately, is much dif<g ref="char:EOLhyphen"/>ferent from the laying on of hands, which on a wound being placed, conveys immediately vertue, but heals not up under many days or weeks ſome<g ref="char:EOLhyphen"/>times, according to the quality of the wound. So that that wound which by Plaiſter requires long time, will alſo proportionably by that Gift take long time; but yet ordinarily cures within half the time the o<g ref="char:EOLhyphen"/>ther doth. So that ſuch healings, though miracu<g ref="char:EOLhyphen"/>lous, are not in themſelves Miracles, for that ſuch healings may &amp; uſually are effected by Phyſick, and by Plaiſter. But yet as to this they are Miracles, in that touching the maner and way of cure, they are healed without ſuch means, and that by laying on of hands, the form and way in the Apoſtles days of con<g ref="char:EOLhyphen"/>veying the holy Ghoſt on believers, and the form and maner always of exerciſing the gifts of Healings, proceeding by and from that ſelf-ſame Spirit.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>7</label> 
+               <hi>What is to be conceived the ſcope and intention
+<pb n="5" facs="tcp:118398:4"/>of God, in ſending to any perſon the power of working Mi<g ref="char:EOLhyphen"/>racles, gifts of Healings, and ſuch-like extraordinary gifts of Gods Spirit in theſe later days?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> That in the Apoſtles days they were given for proofs of true Apoſtleſhip, and of the Word de<g ref="char:EOLhyphen"/>livered by Apoſtles, as in the Prophets days ſuch gifts (though not ſo generally) were given for vindi<g ref="char:EOLhyphen"/>cating and manifeſting thoſe perſons God ſent to be Prophets, and for better proof of their word of pro<g ref="char:EOLhyphen"/>phecie. And ſo as in the Apoſtles days they tended to the beginning of that Church, which in Chriſts time (the fulneſs of time) was erected and confirmed by and under him the Great Prophet and Apoſtle: ſo in theſe later days, wherein the Church hath been ſo often lifted at, and even ſhaken off the foundations, it befits the goodneſs of God, and the office of Chriſt, to depute a perſon or perſons unto the reſtoring and ſetling of his Church according to the true Apoſto<g ref="char:EOLhyphen"/>lical Faith and Government.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>1</label> of this Age. <hi>Theſe things done in our age, are not the works of God.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Theſe works done by Chriſt in our age, are not the works of Antichriſt, which denies our Lord Jeſus and all his works: nor are they the works of Satan, the father of the ſon of perdition.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>2</label> 
+               <hi>But, Sir, theſe things cannot be done.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> They cannot be done unto or upon you that deny them by unbelief, which obſtructed our Saviour from doing many mighty works in his own country.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>3</label> 
+               <hi>There are many wiſe men, and many grave Divines; and why he? and why not rather they?</hi>
+            </p>
+            <pb n="6" facs="tcp:118398:5"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Why was <hi>Moſes</hi> raiſed up a Deliverer, <hi>Da<g ref="char:EOLhyphen"/>vid</hi> a King, <hi>Daniel</hi> a Prophet, <hi>Paul</hi> an Apoſtle? Let God, or his Word, or manifeſted will, declare that; and the ſame God, and his yet-ſecret will, in time manifeſt the other.</p>
+         </div>
+         <div type="author_to_the_reader">
+            <head>To the Chriſtian Reader.</head>
+            <p>I Truſt thy judgement, by committing it to the Spirit of God for directions to read both my words and meanings. I pray God give thee charity to love the works and matters ſpoken of, ſaith to believe them, and then wiſdom to apply them to their right uſe deſigned. This ſhort Narrative I have this afternoon at my lea<g ref="char:EOLhyphen"/>ſure drawn up, with little ſtudy, and yet by good advice. Thoſe works of Miracles and Healing that are not onely talk'd of, but really performed, I will own: and in brief, that I have the power of working Miracles, the gifts of Healing, of Prophecie, and the ſpirit of Diſcerning, I will juſtifie, if I am called to it, not onely before God, Men, and Angels, but before Satan, Antichriſt, and all the powers of hell: yea, if I knew the way to enter the gates of hell, by way of confirmation of theſe Gifts, and of revenging the abuſeful reproaches of them from the devils and their agents, I would; and, through the power of God and his Chriſt, make the devil and his Antichriſt roar and howl their worst, that they might be the ſooner ſilent.</p>
+            <closer>
+               <date>The 25 of <hi>May,</hi> 1654.</date>
+               <signed>MATTHEW COKER, the Apoſtolical Prophet, and Prophetical Apoſtle.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="7" facs="tcp:118398:5"/>
+            <head>The Knot at the end of the Whip: <hi>Added this</hi> 25 <hi>of</hi> June, 1654. <hi>being on the Lords day.</hi>
+            </head>
+            <p>TO my unbelieving Oppoſers, eſpecially thoſe who not onely maligned me, but alſo at leaſt ignorantly blaſphemed the works and opera<g ref="char:EOLhyphen"/>tions of Gods Spirit mightily ſhewn forth at the time of participation of the holy Myſteries of the Body and Blood of the Lord Jeſus Chriſt, at the Chappel of <hi>Lincolns</hi> Inne, laſt <hi>Michaelmas</hi>-Term.</p>
+            <p>It is by reaſon of you, hypocrites at beſt, but half<g ref="char:EOLhyphen"/>converted Chriſtians, that the Name of God is blaſphemed amongſt the Gentiles. Had you had the leaſt meaſure of true grace amongſt you that looked ſo high and ſo ſcornful at my devotion, be<g ref="char:EOLhyphen"/>cauſe ſurpaſſing yours, you would rather with hum<g ref="char:EOLhyphen"/>ble admiration have given thanks at ſuch time, then have been ſo unreaſonably bold, to have then and after judged the worſe of me, onely becauſe of the different ſound of my voice, which I am ſure was rather by a change through a more heavenly and me<g ref="char:EOLhyphen"/>lodious accent, as the piouſly-devout could and will aſſert, and not ſo ſtrange, and even barbarous, as the
+<pb n="8" facs="tcp:118398:6"/>hypocrites would then (and ſtill, if they could) make it. But I wiſh them to confeſs their hypocriſie and raſh judgement to the world forthwith, yea though they ſuffer ſhame for their ill doing, as well as I have far and neer ſuffered reproach for and through their fooliſh judgings, cenſurings, and unhandſome and uncharitable informations of and againſt me, where<g ref="char:EOLhyphen"/>by I was ſo blemiſhed and tainted by all ſorts of men, not excepting one as I knew to the contrary, that even every one ſpent his verdict of me; and he or they that would not ſo egregiouſly cenſute me in my Religion, did at leaſt hold and ſuppoſe I had been under ſome bodily diſtemper: whereas, for mine own part, I ſtill call God to witneſs, I was onely weak in body, as I had been many days be<g ref="char:EOLhyphen"/>fore; whereby my ſoul and ſpirit being more at liberty, I was then in the Spirit on the Lords day, and heard a Seraphical voice ſinging with me, and my ſelf in the mean time (whether in the body, or out of the body, I ſay not) was in a great ecſtafie, and perfect raviſhment of ſoul and ſpirit.</p>
+            <p>And you who were of the more charitable ſort, and who, together with the Spirit of Chriſt in you, had alſo a conſcience bearing witneſs within you, at that very time, of and concerning my unblameable deportment in every reſpect at the Sacrament, inſo<g ref="char:EOLhyphen"/>much that I hope even to this preſent you deem my actions no otherwiſe, then onely obedient to the holy Spirit of God, moving in and on my heart, tongue and voice.</p>
+            <p>I have alſo againſt you a few words; that is, be<g ref="char:EOLhyphen"/>cauſe,
+<pb n="9" facs="tcp:118398:6"/>notwithſtanding the unreaſonable ſtrugling of all ſorts, even of men, women, and children, cenſoriouſly in City and Country upbraiding me, or rather, the works of God by me; That you then ſhould be ſo timorouſly ſilent, and ſo modeſtly wicked, in that point, as not to ſpend a little breath, in a few words, to have choak'd that ſtinking breath of Antichriſt, which cunningly did vent it ſelf, not onely in Sorcerers, Magicians, and ſuch-like vile perſons, but alſo, as much as it could, in the chil<g ref="char:EOLhyphen"/>dren of God themſelves, to be even their inſtru<g ref="char:EOLhyphen"/>ments and trumpets to noiſe abroad diſgracefully thoſe works of our LORD JESUS, which in themſelves were right glorious, and not a whit beneath thoſe he hath ſince by a mighty power ſhewn by me in and neer this City of <hi>London.</hi>
+            </p>
+            <p>And as for you Hypocrites, of whoſe amend<g ref="char:EOLhyphen"/>ment there is ſmall hopes, you will without ſound Repentance, both you and your relations, become a ſtink in the noſtrils of all the generations to come.</p>
+            <p>And you poor faint-hearted ones, (though I confeſs many of you amongſt the number of Gods dear children) will never be thought worthy, un<g ref="char:EOLhyphen"/>leſs your own conſciences, being now pricked, ſhall incite you to make amends for your former de<g ref="char:EOLhyphen"/>faults, by a greater future ſincerity to the works you have childiſhly, and yet ſtubbornly oppoſed, or at leaſt not maintained, as you ought; you will otherwiſe, through the juſt hand of God, be re<g ref="char:EOLhyphen"/>ſtrained
+<pb n="10" facs="tcp:118398:7"/>from entering into that <hi>good land</hi> in this our Nation ere long to be poſſeſſed by thoſe true Iſrael<g ref="char:EOLhyphen"/>ites, who become like thoſe obedient ones under the Conduct of <hi>Moſes</hi> their Deliverer, ſo known to be, notwithſtanding his being deſpiſed, by the ſignes and mighty wonders God wrought by him.</p>
+            <p>My Advice is to all Chriſtians in general, and even to all good Moral juſt honeſt men, That they no longer ſtand in awe of <hi>Beelzebub,</hi> a god of Flyes; of a Devil, the begetter of ſtrange fancies, and foo<g ref="char:EOLhyphen"/>liſh fears; and that they ſhew the like confidence when their time ſhall be, as I my ſelf intend in mine, that is, To go up to the face of Antichriſt; whom I ſhall know by this mark, That he and his will rig<g ref="char:EOLhyphen"/>gle and ſtruggle at the noiſe of my <hi>Whip of ſmall Cords.</hi>
+            </p>
+            <p>And if he and they will not hear and obey, and permit the Goſpel to have its free courſe, as it ought to have, (with all Blaſphemies, Hereſies, and Oppo<g ref="char:EOLhyphen"/>ſitions, taken out of the way;) then I will, in the power of Chriſt, come in that zeal as he entered the Temple, to whip out all defilers thereof; and with a real (and not fictitious) Whip, of ſmarting (though) ſmall Cords, whip him and them out, not onely out of the Temple and Temples, but out of houſe and houſes alſo, which they ſay are Tem<g ref="char:EOLhyphen"/>ples.</p>
+            <closer>
+               <signed>Wrote by <hi>MATTH. COKER, (ut Baptiſta ſeverus, Chriſti praecurſor, Baptiſmate Spiritûs baptizatus)</hi> in his fervour of ſpirit for Chriſts cauſe and the Goſpel's.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="11" facs="tcp:118398:7"/>
+            <head>The Sheerer ſheer'd, and caſheer'd: The Shaver ſhav'd, AND The Grinder ground to powder, As will be the end of thoſe that puff with a weak breath of Antichriſt againſt the Lord Chriſt, <hi>who will deſtroy that wicked one with the ſpirit of his mouth, and brightneſs of his coming.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>June</hi> 26. 1654.</date>
+               </dateline>
+            </opener>
+            <p>I Underſtand this morning, That a Sheer-grinder living neer the <hi>Palſgraves</hi>-head-Tavern without Temple-bar, is, with the reſt of his faction of fools, much troubled at thoſe things done by me in the power of God, which he cannot underſtand; and that he doth not onely, with this laſt Faction of the world, ſpeak evil (with thoſe foretold) of things he underſtands not, but alſo of the perſon he knows not. For if he knew me, as the Angels of God, and all holy men inſpired, do, he would not this morning have ſaid, That he hoped to ſee me hang'd one of the firſt.</p>
+            <pb n="12" facs="tcp:118398:8"/>
+            <p>But I adviſe him and them Antichriſts, and Anti<g ref="char:EOLhyphen"/>workers againſt the Lord Chriſt, and the works done through his power by me, That they bear in minde what they have heard and read of the great ſucceſs <hi>Haman</hi> had, by preparing the gallows for <hi>Mordecai;</hi> whereby this benefit accrued, That they were the better made ready to hand, againſt <hi>Haman</hi>'s time came. I would deſire this ſort of people to make application: onely I fear that ſome of them, worſe then <hi>Haman,</hi> as bad as <hi>Judas,</hi> or worſe, may do that office on themſelves, which <hi>Ju<g ref="char:EOLhyphen"/>das</hi> did, who betray'd his Maſter on earth, as theſe would the Meſſenger ſent from him now our Lord and Maſter in heaven.</p>
+            <p>I ſee the ſheep of Chriſt would be well ſheer'd, if they came under this Sheer-grinder, who very like<g ref="char:EOLhyphen"/>ly for his Penſion doth ſharpen the ſheer, and put an edge to the inſtrument or cauſe in hand, for others to proceed the better.</p>
+            <p>But if there are many more ſuch Sheerers, I fear they will prove but Shavers, and that not of us, but of their own ſcabbed flock; who with their crooked Rams-horns, and crookeder conditions, will at laſt ere long butt at one another. And my reaſon is this; for that ſuch are all of the houſhold of Anti<g ref="char:EOLhyphen"/>chriſt, the old enemy of Chriſt come in the fleſh, however they pretend to confeſs him openly, whiles in the mean time they deny his works, or at leaſt will not or dare not let them be vindicated, or at leaſt examined impartially and in a right way. And whereas it is ſaid, That <hi>an houſe divided againſt it ſelf cannot ſtand,</hi> thence I infer, That becauſe this
+<pb n="13" facs="tcp:118398:8"/>houſe of Satan cannot long ſtand, therefore it will of neceſſity be divided againſt it ſelf. God ſend no worſe diviſions amongſt us Chriſtians, and all good Moral peaceable honeſt men, and we ſhall quickly outlive for ever the threats of Hanging, Stabbing, Piſtoling, and enjoy a continued Peace to us and ours for ever. And this is, next to the Goſpel, the greateſt thing I aim at, and which, through the power of God, I intend ſtill to go on to accompliſh, till by death or violence I am taken out of the way; which my faith will not eaſily ad<g ref="char:EOLhyphen"/>mit of, believing in this cauſe, till I feel the laſt graſp of the fatal hand of death, if ſo be I ſhall.</p>
+            <closer>
+               <signed>
+                  <hi>MATTH. COKER,</hi> the greateſt Oppoſite of An<g ref="char:EOLhyphen"/>tichriſt in our Age.</signed>
+            </closer>
+            <closer/>
+            <postscript>
+               <p>God deal by me, as I intend by his Cauſe and the Goſpel's, for which he himſelf hath ſtirred me up, and I muſt go on with, though thorow a ſea of blood.</p>
+               <closer>
+                  <signed>
+                     <hi>His will be done on earth as it is in heaven.</hi>
+                     <hi>MATTH. COKER,</hi> Angelus Evangelicus, Fidelu Nuncius.</signed>
+               </closer>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
